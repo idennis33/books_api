@@ -1,24 +1,12 @@
-# README
+#### Technologies Used
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Here for this project I used Ruby on Rails on the backend and React on the frontend. Within the backend I used authecentication with JWT. 
 
-Things you may want to cover:
+### New Tech learned
 
-* Ruby version
+The new tech learned was stlyed components. Which is a new CSS framework that allows you to remove css from your logic which helps with better looking code.
 
-* System dependencies
 
-* Configuration
+### Note to self
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I would like to add features where everyone has their own book shelf. I think i didn't take into account for the many to many relationship. Where books belongs to users. 
